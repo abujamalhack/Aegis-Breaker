@@ -1,0 +1,16 @@
+version: '3.8'
+services:
+  aegis_node:
+    build: .
+    deploy:
+      mode: replicated
+      replicas: 5
+    environment:
+      - NODE_ID={{.Task.Slot}}
+      - REPLICAS=5
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./selectors.yaml:/app/selectors.yaml
+    restart: on-failure
+    
