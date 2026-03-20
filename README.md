@@ -1,9 +1,8 @@
 # 𝐴𝑏𝑢 𝐽𝑎𝑚𝑎𝑙 𝐴𝑏𝑑𝑢𝑙 𝑁𝑎𝑠𝑠𝑒𝑟 𝐴𝑙-𝑆ℎ𝑎𝑤𝑘𝑖
-⚡ AEGIS-BREAKER 2099 ⚡
+# ⚡ AEGIS-BREAKER 2099 ⚡
 
 The Ultimate Cyber-Weapon for Automated Reporting Systems
 
----
 
 <div align="center">
 
@@ -16,8 +15,6 @@ Developed by: Abu Jamal Abdul Nasser Al-Shawki
 Contact: @Abu_jamal777
 
 </div>
-
----
 
 📜 Overview
 
