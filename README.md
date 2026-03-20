@@ -1,70 +1,64 @@
 # 𝐴𝑏𝑢 𝐽𝑎𝑚𝑎𝑙 𝐴𝑏𝑑𝑢𝑙 𝑁𝑎𝑠𝑠𝑒𝑟 𝐴𝑙-𝑆ℎ𝑎𝑤𝑘𝑖
 # ⚡ AEGIS-BREAKER 2099 ⚡
-
-The Ultimate Cyber-Weapon for Automated Reporting Systems
-
+## *The Ultimate Cyber-Weapon for Automated Reporting Systems*
 
 <div align="center">
 
-https://img.shields.io/badge/version-6.0-red
-https://img.shields.io/badge/python-3.10+-blue
-https://img.shields.io/badge/docker-ready-brightgreen
-https://img.shields.io/badge/license-black--hat-orange
+![Version](https://img.shields.io/badge/version-6.0-red)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![Docker](https://img.shields.io/badge/docker-ready-brightgreen)
+![License](https://img.shields.io/badge/license-black--hat-orange)
 
-Developed by: Abu Jamal Abdul Nasser Al-Shawki
-Contact: @Abu_jamal777
+**Developed by: Abu Jamal Abdul Nasser Al-Shawki**  
+**Contact: [@Abu_jamal777](https://t.me/Abu_jamal777)**
 
 </div>
 
-📜 Overview
+---
 
-Aegis-Breaker 2099 is a sophisticated, enterprise-grade automation system designed for mass reporting operations on social media platforms. Built with a microservices architecture, it combines Dual-AI analysis, advanced browser automation, identity spoofing, and intelligent resource management to deliver maximum effectiveness while evading detection systems.
+## 📜 Overview
 
-"The difference between a script and a weapon is precision, stealth, and the ability to adapt."
+**Aegis-Breaker 2099** is a sophisticated, enterprise-grade automation system designed for mass reporting operations on social media platforms. Built with a microservices architecture, it combines **Dual-AI analysis**, **advanced browser automation**, **identity spoofing**, and **intelligent resource management** to deliver maximum effectiveness while evading detection systems.
+
+> *"The difference between a script and a weapon is precision, stealth, and the ability to adapt."*
 
 ---
 
-🎯 Key Features
+## 🎯 Key Features
 
-🤖 Dual-AI Engine
+### 🤖 Dual-AI Engine
+- Real-time content analysis using **HuggingFace Transformers** & **EasyOCR**
+- Multi-language support (Arabic/English) with **OCR image extraction**
+- Intelligent violation detection: Hate Speech, Violence, Nudity, Harassment, Fake Accounts
+- Adaptive strategy selection based on confidence scores
 
-· Real-time content analysis using HuggingFace Transformers & EasyOCR
-· Multi-language support (Arabic/English) with OCR image extraction
-· Intelligent violation detection: Hate Speech, Violence, Nudity, Harassment, Fake Accounts
-· Adaptive strategy selection based on confidence scores
+### 🛡️ Advanced Stealth & Anti-Detection
+- **Playwright Stealth** integration with Canvas/WebGL/WebRTC spoofing
+- Dynamic browser fingerprint rotation
+- Human-like behavioral patterns with random delays and mouse movements
+- Triple fallback selectors system updated for March 2026
 
-🛡️ Advanced Stealth & Anti-Detection
+### 🚀 Resource Management
+- **BrowserPool** architecture with intelligent concurrency control
+- Semaphore-based resource limiting to prevent memory overflow
+- Automatic proxy validation and rotation
+- Distributed workload across Docker containers with node partitioning
 
-· Playwright Stealth integration with Canvas/WebGL/WebRTC spoofing
-· Dynamic browser fingerprint rotation
-· Human-like behavioral patterns with random delays and mouse movements
-· Triple fallback selectors system updated for March 2026
+### 🎭 Identity Spoofing Module
+- Automatic profile image and name synchronization with target
+- Pre-attack identity replication for "Fake Account" reporting strategy
+- Visual asset extraction via `target_image_downloader.py`
 
-🚀 Resource Management
+### 🔓 CAPTCHA Bypass
+- Full **2Captcha API** integration
+- Automatic detection and solving of reCAPTCHA/hCaptcha challenges
+- Session refresh on challenge detection
 
-· BrowserPool architecture with intelligent concurrency control
-· Semaphore-based resource limiting to prevent memory overflow
-· Automatic proxy validation and rotation
-· Distributed workload across Docker containers with node partitioning
-
-🎭 Identity Spoofing Module
-
-· Automatic profile image and name synchronization with target
-· Pre-attack identity replication for "Fake Account" reporting strategy
-· Visual asset extraction via target_image_downloader.py
-
-🔓 CAPTCHA Bypass
-
-· Full 2Captcha API integration
-· Automatic detection and solving of reCAPTCHA/hCaptcha challenges
-· Session refresh on challenge detection
-
-🐳 Scalable Deployment
-
-· Dockerized microservices with load balancing
-· Automatic bot distribution across multiple containers using NODE_ID
-· Horizontal scaling support with replica management
-· Centralized logging and monitoring
+### 🐳 Scalable Deployment
+- Dockerized microservices with load balancing
+- Automatic bot distribution across multiple containers using `NODE_ID`
+- Horizontal scaling support with replica management
+- Centralized logging and monitoring
 
 ---
 
