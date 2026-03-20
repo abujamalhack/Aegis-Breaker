@@ -1,0 +1,16 @@
+facebook_v2026:
+  post_container: "//div[@role='article']"
+  more_button: 
+    - "//*[@data-testid='post_cheat_sheet_button']"
+    - "//div[@aria-label='More' or @aria-label='المزيد']"
+  report_link:
+    - "//span[contains(text(),'Report') or contains(text(),'إبلاغ')]"
+    - "//span[contains(text(),'Find support')]"
+  violation_types:
+    hate_speech: "//span[contains(text(),'Hate speech') or contains(text(),'خطاب كراهية')]"
+    violence: "//span[contains(text(),'Violence') or contains(text(),'عنف')]"
+    nudity: "//span[contains(text(),'Nudity') or contains(text(),'محتوى جنسي')]"
+  submit_button: 
+    - "//div[@role='button']//span[text()='Submit' or text()='إرسال']"
+    - "//div[@aria-label='Send' or @aria-label='إرسال']"
+    
