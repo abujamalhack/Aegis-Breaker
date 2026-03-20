@@ -1,0 +1,4 @@
+[
+  {"id": "B1", "cookie_path": "data/sessions/1.json", "proxy": "http://user:pass@ip:port", "ua": "Mozilla/5.0..."},
+  {"id": "B2", "cookie_path": "data/sessions/2.json", "proxy": "http://user:pass@ip:port", "ua": "Mozilla/5.0..."}
+]
