@@ -1,0 +1,16 @@
+system_settings:
+  max_browsers: 3
+  max_threads: 5
+  headless: true
+  timeout: 30000
+
+target_info:
+  id: "target_username_here"
+
+bot_net:
+  accounts_file: "data/bots.json"
+  sessions_dir: "data/sessions/"
+
+captcha:
+  api_key: "YOUR_2CAPTCHA_KEY_HERE"
+  
